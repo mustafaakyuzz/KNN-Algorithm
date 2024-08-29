@@ -7,7 +7,7 @@
 ![realOutput](https://github.com/user-attachments/assets/5bf5f516-bb90-4f6f-84e2-14407cbfb9d3)
 
 <h4>Table for 'k' values and accuracy</h4> 
-<p>After looking at this table we decided to use '8' value for 'k'</p>
+<p>After looking at this table we decided to use '8','11' or '13' value for 'k'</p>
 
 ![output](https://github.com/user-attachments/assets/2dc94df6-4898-4dc0-8dc1-3e25505df635)
 
